@@ -1,7 +1,7 @@
-id: 3103
+id: 21
 cost: 5000
-name: "Dragon"
-backgroundImage: "test.gif"
+name: "SpongeBob"
+backgroundImage: "spongebob.jpg"
 
 colors:
     backgroundColor:
