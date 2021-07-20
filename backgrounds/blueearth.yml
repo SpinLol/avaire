@@ -1,7 +1,7 @@
 id: 113
 cost: 500
 name: "Blue Earth"
-backgroundImage: "blueearth.jpg"
+backgroundImage: "blueearth.png"
 
 colors:
     backgroundColor:
