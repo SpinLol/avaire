@@ -15,32 +15,32 @@ colors:
         blue: 0
         alpha: 22
     mainTextColor:
-        red: 226
-        green: 226
-        blue: 229
+        red: 91
+        green: 245
+        blue: 255
         alpha: 85
     secondaryTextColor:
-        red: 247
-        green: 217
-        blue: 18
+        red: 91
+        green: 245
+        blue: 255
         alpha: 90
     experienceBackgroundColor:
-        red: 240
-        green: 235
-        blue: 89
+        red: 91
+        green: 245
+        blue: 255
         alpha: 45
     experienceForegroundColor:
-        red: 247
-        green: 217
-        blue: 18
+        red: 91
+        green: 245
+        blue: 255
         alpha: 80
     experienceSeparatorColor:
-        red: 247
-        green: 185
-        blue: 18
+        red: 91
+        green: 245
+        blue: 255
         alpha: 85
     experienceTextColor:
-        red: 34
-        green: 34
-        blue: 34
+        red: 91
+        green: 245
+        blue: 255
         alpha: 80
