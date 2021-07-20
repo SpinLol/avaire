@@ -1,7 +1,7 @@
 id: 3103
 cost: 5000
 name: "Dragon"
-backgroundImage: "test.gif"
+backgroundImage: "test2.gif"
 
 colors:
     backgroundColor:
