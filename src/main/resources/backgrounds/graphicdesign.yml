@@ -1,7 +1,7 @@
 id: 1332
 cost: 50
 name: "Graphic Design"
-backgroundImage: "graphic.png"
+backgroundImage: "graphic.jpg"
 
 colors:
     backgroundColor:
