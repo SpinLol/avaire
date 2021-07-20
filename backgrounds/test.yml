@@ -1,0 +1,46 @@
+id: 3103
+cost: 5000
+name: "Dragon"
+backgroundImage: "test.gif"
+
+colors:
+    backgroundColor:
+        red: 0
+        green: 0
+        blue: 0
+        alpha: 22
+    backgroundCoverColor:
+        red: 0
+        green: 0
+        blue: 0
+        alpha: 22
+    mainTextColor:
+        red: 91
+        green: 245
+        blue: 255
+        alpha: 85
+    secondaryTextColor:
+        red: 91
+        green: 245
+        blue: 255
+        alpha: 90
+    experienceBackgroundColor:
+        red: 91
+        green: 245
+        blue: 255
+        alpha: 45
+    experienceForegroundColor:
+        red: 91
+        green: 245
+        blue: 255
+        alpha: 80
+    experienceSeparatorColor:
+        red: 91
+        green: 245
+        blue: 255
+        alpha: 85
+    experienceTextColor:
+        red: 91
+        green: 245
+        blue: 255
+        alpha: 80
