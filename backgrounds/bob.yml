@@ -1,7 +1,7 @@
 id: 1021
 cost: 50
 name: "Bob"
-backgroundImage: "bob.jpg"
+backgroundImage: "bob.png"
 
 colors:
     backgroundColor:
