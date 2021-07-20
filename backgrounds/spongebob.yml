@@ -20,7 +20,7 @@ colors:
         blue: 255
         alpha: 85
     secondaryTextColor:
-        red: 910
+        red: 210
         green: 245
         blue: 255
         alpha: 90
