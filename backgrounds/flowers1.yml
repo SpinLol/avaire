@@ -1,0 +1,35 @@
+id: 1332
+cost: 50000
+name: "Flowers"
+backgroundImage: "flower.jpg"
+
+colors:
+    backgroundColor:
+        red: 55
+        green: 55
+        blue: 70
+    mainTextColor:
+        red: 213
+        green: 209
+        blue: 216
+        alpha: 85
+    secondaryTextColor:
+        red: 220
+        green: 191
+        blue: 198
+        alpha: 85
+    experienceBackgroundColor:
+        red: 183
+        green: 90
+        blue: 102
+        alpha: 75
+    experienceForegroundColor:
+        red: 156
+        green: 129
+        blue: 159
+        alpha: 80
+    experienceSeparatorColor:
+        red: 83
+        green: 180
+        blue: 201
+        alpha: 0
