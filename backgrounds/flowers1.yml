@@ -1,7 +1,7 @@
 id: 1332
 cost: 50000
 name: "Flowers"
-backgroundImage: "flower.jpg"
+backgroundImage: "flowers.jpg"
 
 colors:
     backgroundColor:
